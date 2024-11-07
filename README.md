@@ -1,5 +1,9 @@
 # Atliq Hardware Analytics Project
 
+🔗 [Check out the dashboard here](https://shorturl.at/QjdGm)
+
+🔗 [Video Presentation](https://shorturl.at/yhTu7)
+
 ## Company Overview
 
 Atliq Hardware is a global consumer electronics company offering a diverse range of products, including:  
